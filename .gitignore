@@ -1,0 +1,3 @@
+# ignore csv datasets
+data/daily_dataset.csv
+data/weather_daily_darksky.csv
